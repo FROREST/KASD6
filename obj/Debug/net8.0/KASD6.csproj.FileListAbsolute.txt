@@ -1,0 +1,14 @@
+/Users/liga/Desktop/KASD6/KASD6/bin/Debug/net8.0/KASD6
+/Users/liga/Desktop/KASD6/KASD6/bin/Debug/net8.0/KASD6.deps.json
+/Users/liga/Desktop/KASD6/KASD6/bin/Debug/net8.0/KASD6.runtimeconfig.json
+/Users/liga/Desktop/KASD6/KASD6/bin/Debug/net8.0/KASD6.dll
+/Users/liga/Desktop/KASD6/KASD6/bin/Debug/net8.0/KASD6.pdb
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.AssemblyInfoInputs.cache
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.AssemblyInfo.cs
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.csproj.CoreCompileInputs.cache
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.dll
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/refint/KASD6.dll
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.pdb
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/KASD6.genruntimeconfig.cache
+/Users/liga/Desktop/KASD6/KASD6/obj/Debug/net8.0/ref/KASD6.dll
